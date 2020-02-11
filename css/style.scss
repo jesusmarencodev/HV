@@ -1,0 +1,39 @@
+body{
+    font-size: .8rem;
+}
+.encabezado{
+    background: #d0021b;
+}
+.contacto{
+    border-left: 1px solid white;
+    height: 100%;
+}
+.columna{
+   border-left: .1px solid rgb(224, 223, 223);
+   
+}
+.fila{
+    border-bottom: .1px solid rgb(224, 223, 223);
+}
+.rojo{
+    background: #d0021b;
+    padding: 0.5rem;
+    border-radius: 5px;
+    color: white;
+}
+
+.ico{
+    border-radius: 15px;
+    height: 30px;
+}
+.ico2{
+    height: 30px;
+}
+
+.elh6{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}

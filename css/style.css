@@ -1,0 +1,37 @@
+body {
+  font-size: .8rem; }
+
+.encabezado {
+  background: #d0021b; }
+
+.contacto {
+  border-left: 1px solid white;
+  height: 100%; }
+
+.columna {
+  border-left: 0.1px solid #e0dfdf; }
+
+.fila {
+  border-bottom: 0.1px solid #e0dfdf; }
+
+.rojo {
+  background: #d0021b;
+  padding: 0.5rem;
+  border-radius: 5px;
+  color: white; }
+
+.ico {
+  border-radius: 15px;
+  height: 30px; }
+
+.ico2 {
+  height: 30px; }
+
+.elh6 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  align-items: center;
+  justify-content: center; }
+
+/*# sourceMappingURL=style.css.map */
