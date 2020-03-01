@@ -11,6 +11,9 @@ body {
 .columna {
   border-left: 0.1px solid #e0dfdf; }
 
+.perfil {
+  height: 150px !important; }
+
 .fila {
   border-bottom: 0.1px solid #e0dfdf; }
 
